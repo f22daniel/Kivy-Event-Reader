@@ -1,0 +1,4 @@
+Polygon contract: 0x354c71A0a117895c9dEEdf5A42120698722e72F9
+Goerli contract: 0x11cdfC6dAD20C272947F73bc83C70051aF36A363, 0x6029abb9B3576f252e9fC7C98Ec9e94416Ef739C
+
+Contracts where events have been tested.
